@@ -1,4 +1,4 @@
-# Pasar Aksara
+# Pasar Hanacaraka
 
 Pasar Aksara adalah permainan simulasi pasar tradisional yang interaktif, dirancang khusus untuk mempermudah dan mencerahkan pembelajaran Aksara Jawa bagi pemula. Di dalam game ini, pemain dapat memilih peran sebagai **Pembeli** atau **Penjual**, berinteraksi dengan simulasi transaksi jual beli bahan-bahan tradisional, dan belajar membaca serta merangkai Aksara Jawa.
 
