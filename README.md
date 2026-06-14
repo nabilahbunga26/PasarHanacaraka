@@ -88,7 +88,4 @@ Untuk menjalankannya:
 npm run start
 ```
 
-## 📜 Lisensi
-Aplikasi ini dikembangkan untuk pendidikan dan perlombaan, disesuaikan berdasarkan ketentuan lisensi platform.
-
 Selamat bermain dan sinau Aksara Jawa! ꧋ꦱꦸꦒꦼꦁꦱꦶꦤꦲꦸ꧉
